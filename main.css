@@ -1,0 +1,28 @@
+body {
+    background-image: url(background.jpg);
+}
+.first {
+    text-align:center;
+    font-size: xxx-large;
+}
+.ask {
+    text-align:left;
+    margin-left: 8px;
+    
+}
+.about {
+    text-align:left;
+    margin-left:8px;
+    
+}
+.something {
+    text-align:center;
+    margin-left:8px;
+}
+.basic {
+    margin-left:8px;
+    
+}
+.detail {
+    margin-left:8px;
+}
